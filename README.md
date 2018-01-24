@@ -1,4 +1,4 @@
-<h3>Setting up a SCALA and SPARK/HADOOP development environment on your Windows PC</h3>
+<h3>Setting up your PC for SCALA/Spark development and running your first code</h3>
 
 Carry out the following steps to create a SCALA/SPARK/HADOOP development environment on your 
 local windows PC. Note that it won't be a proper version of HADOOP we'll install, rather
