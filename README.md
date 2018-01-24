@@ -61,7 +61,7 @@ To check that the Spark installation is OK, go to wherever you installed  Spark
 open up a command window and type in spark-shell. After a minute or so you
 should see something similar to this:
 
-![](media/image1.png)
+![](https://github.com/taupirho/scala-spark-on-pc/blob/master/scala.png)
 
 If you don’t see this then something has gone wrong and you should re-visit all
 the steps described above and make sure all is OK with them. Similarly for the
@@ -91,4 +91,4 @@ scala\>:quit
 
 There you go, you just ran your first Spark/Scala code !
 
-![](media/image1.png)
+
