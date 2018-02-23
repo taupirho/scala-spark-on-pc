@@ -37,10 +37,10 @@ The following environment variables now need to be set up
 
 
 |Variable  |Value
-|----------|-----------------------|
-|SPARK_HOME|SPARK install directory e.g c:\\spark
-|JAVA_HOME |JAVA JDK install directory e.g c:\\program files\\java\\jdk1.8
-|HADOOP_HOME|bin directory where winutils.exe lives in e.g c:\\winutils
+|-----------|-----------------------|
+|SPARK_HOME |SPARK install directory e.g c:\\spark
+|JAVA_HOME  |JAVA JDK install directory e.g c:\\program files\\java\\jdk1.8
+|HADOOP_HOME|Directory where bin/winutils.exe lives in e.g c:\\winutils
 
 
 
